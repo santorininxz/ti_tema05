@@ -23,7 +23,7 @@ A OnePage apresenta os seguintes tópicos:
 
 Você pode visualizar a OnePage publicada aqui:
 
-👉 [Acesse a página no GitHub Pages](https://SEU_USUARIO.github.io/NOME-DO-PROJETO)
+👉 [Acesse a página no GitHub Pages](https://santorininxz.github.io/ti_tema05/)
 
 > Substitua o link acima com o endereço real após a publicação no GitHub Pages.
 
